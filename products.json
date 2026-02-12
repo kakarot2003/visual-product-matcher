@@ -1,30 +1,72 @@
 [
   {
     "id": 1,
-    "name": "Classic White Sneakers",
-    "category": "Footwear",
-    "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400",
-    "price": "$89.99"
+    "name": "Red Apple",
+    "category": "Fruit",
+    "image_url": "https://images.unsplash.com/photo-1570913149827-d2ac84ab3f9a?w=400",
+    "price": "$0.50"
   },
   {
     "id": 2,
-    "name": "Leather Backpack",
-    "category": "Accessories",
-    "image_url": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400",
-    "price": "$120.00"
+    "name": "Pepperoni Pizza",
+    "category": "Food",
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400",
+    "price": "$15.00"
   },
   {
     "id": 3,
-    "name": "Smart Watch Black",
-    "category": "Electronics",
-    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
-    "price": "$199.99"
+    "name": "Golden Retriever Dog",
+    "category": "Animal",
+    "image_url": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=400",
+    "price": "Not for sale"
   },
   {
     "id": 4,
-    "name": "Denim Jacket",
-    "category": "Apparel",
+    "name": "Sports Car (Red)",
+    "category": "Vehicle",
+    "image_url": "https://images.unsplash.com/photo-1542362567-b07e54358753?w=400",
+    "price": "$50,000"
+  },
+  {
+    "id": 5,
+    "name": "MacBook Laptop",
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+    "price": "$1200.00"
+  },
+  {
+    "id": 6,
+    "name": "Coffee Cup",
+    "category": "Beverage",
+    "image_url": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=400",
+    "price": "$5.00"
+  },
+  {
+    "id": 7,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400",
+    "price": "$25.00"
+  },
+  {
+    "id": 8,
+    "name": "Guitar",
+    "category": "Music",
+    "image_url": "https://images.unsplash.com/photo-1516924962500-2b4b3b99ea02?w=400",
+    "price": "$300.00"
+  },
+  {
+    "id": 9,
+    "name": "Blue Denim Jacket",
+    "category": "Clothing",
     "image_url": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=400",
     "price": "$75.00"
+  },
+  {
+    "id": 10,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    "price": "$120.00"
   }
 ]
