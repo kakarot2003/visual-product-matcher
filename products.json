@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White Sneakers",
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400",
+    "price": "$89.99"
+  },
+  {
+    "id": 2,
+    "name": "Leather Backpack",
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400",
+    "price": "$120.00"
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch Black",
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+    "price": "$199.99"
+  },
+  {
+    "id": 4,
+    "name": "Denim Jacket",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=400",
+    "price": "$75.00"
+  }
+]
