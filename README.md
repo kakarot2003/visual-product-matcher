@@ -1,3 +1,8 @@
+
+Working Link: https://visual-product-matcher-4154.onrender.com 
+
+
+
 # Visual Product Matcher
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Build](https://img.shields.io/badge/build-passing-green.svg) ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) ![Node.js](https://img.shields.io/badge/node-16+-green.svg) ![Status](https://img.shields.io/badge/status-active-success.svg) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
@@ -417,7 +422,5 @@ For support, please:
 - Review the [documentation](https://github.com/kakarot2003/visual-product-matcher/wiki) (if available)
 
 ---
-
-**Made with ❤️ by the Visual Product Matcher Team**
-
-**Last Updated:** 2026-02-17 07:52:03
+ 
+**Made by Ankit Raj 
